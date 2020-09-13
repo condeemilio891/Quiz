@@ -60,7 +60,7 @@ const quizData=[
 
     },
     {
-        question: "in order to stabalize the neurons membrane potential.The sodium potasium pump ",
+        question: "In order to stabilize the neurons membrane potential.The sodium potasium pump ",
         a:'Transports K+ outside the cell and na inside of the cell it does this using a ligand molecule',
         b: 'Transports Na+ outside the cell and k+ inside of the cell it does this by using ATP',
         c:'Transports Na+ outside the cell and K+ inside of the cell by using a ligand molecule',
@@ -73,7 +73,7 @@ const quizData=[
         question: "The concentration gradient on the inside of the cell ",
         a:'Is negative and contains more NA+ than the outside of the cell',
         b: 'Is positive and contains more NA+ than the outside of the cell',
-        c:' Is positive and containes more K+ than the outside of the cell',
+        c:' Is positive and contains more K+ than the outside of the cell',
         d:'Is negative and contains more K+ than the outside of the cell',
         correct:'d'
      
@@ -168,7 +168,7 @@ const quizData=[
     },
     {
         question: "AMPA and NMDA receptors bind what molecule and are what kind of channel?",
-            a:"Glutamte mechanical",
+            a:"Glutamate mechanical",
             b:"Glutamate ligand-gated",
             c:"GABA mechanical",
             d:"GABA ligand-gated",
@@ -193,7 +193,7 @@ const quizData=[
         correct:"d"
     },
     {
-        question:"in the early stages of ATP the protein kineses caMKII and PKC enhance neuro transmition in what ways",
+        question:"in the early stages of ATP the protein kineses caMKII and PKC enhance neuro transmission in what ways",
             a:"it adds phosphorus to the AMPA receptor allowing ions to flow through it more vigourously",
             b:"it adds more AMPA receptors and NMDA receptors",
             c:"it adds more AMPA receptors ",
