@@ -270,7 +270,7 @@ submitBtn.addEventListener('click',()=> {
         if(currentQuestion<quizData.length){
                 loadQuiz();
         }else{
-                alert('You finished')
+                
                     quiz.innerHTML=`<h2>you answered
                      ${score}/${quizData.length} questions correctly 
                      </h2><button onclick="location.reload()"
