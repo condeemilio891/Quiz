@@ -141,7 +141,7 @@ const quizData=[
 
     },
     {
-        question: "How is it that the body can respond to intense pain and a gentle breeze diffentry regarding the behavior of action potentials",
+        question: "How is it that the body can respond to intense pain and a gentle breeze differently regarding the behavior of action potentials",
         a:'The action potential is more intense causing higher voltage',
         b: 'The action potential is shot off at a rate with higher frequency',
         c:'Both a and b ',
@@ -159,7 +159,7 @@ const quizData=[
 
     },
     { question:"New memories are believed to be formed in the",
-        a:"Hypocampus",
+        a:"Hippocampus",
         b:"Pre-frontal cortex",
         c:"Occipital lobe",
         d:"Amygdala",
